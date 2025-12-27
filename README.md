@@ -23,4 +23,4 @@ It demonstrates practical skills in data extraction, storage, and analysis, with
 - Spotipy (Spotify Web API wrapper)
 - MySQL + SQLAlchemy
 - Pandas
-- 
+
