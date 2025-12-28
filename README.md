@@ -5,7 +5,7 @@ A mini-intermediate data engineering pipeline (ETL) and analytics project that p
 ---
 
 This project demonstrates an end-to-end data engineering pipeline that ingests music metadata from the Spotify Web API, 
-processes and normalizes raw JSON data using Python, and loads it into a MySQL relational database following ETL best practices.
+processes and normalizes raw JSON data using Python, and loads it into a MySQL relational database following ETL.
 
 ---
 
